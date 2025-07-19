@@ -63,3 +63,11 @@ footer a:hover{
 footer i{
     font-size: 50px;
 }
+
+.form-group{
+    margin-top: 10px;
+}
+
+.form-group textarea{
+    max-width: 500px;
+}
